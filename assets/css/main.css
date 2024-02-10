@@ -2167,7 +2167,7 @@ textarea:-ms-input-placeholder {
 }
 
 .running-taxi .taxi {
-	background-image: url(../img/truck-1.png);
+	background-image: url(../img/new/truck-1.png);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: contain;
@@ -2180,7 +2180,7 @@ textarea:-ms-input-placeholder {
 }
 
 .running-taxi .taxi-2 {
-	background-image: url(../img/truck-2.png);
+	background-image: url(../img/new/truck-2.png);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: contain;
@@ -2193,7 +2193,7 @@ textarea:-ms-input-placeholder {
 }
 
 .running-taxi .taxi-3 {
-	background-image: url(../img/truck-3.png);
+	background-image: url(../img/new/truck-3.png);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: contain;
